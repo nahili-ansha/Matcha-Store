@@ -65,18 +65,6 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-<img src='https://github.com/nahili-ansha/Matcha-Store/blob/main/matcha-hub.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
